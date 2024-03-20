@@ -7,3 +7,7 @@ if (svar == "ja")
 {
     Console.WriteLine("Det skal du få.");
 }
+if else (svar == "nej")
+{
+    Console.WriteLine("Okay det får du ik så.");
+}
