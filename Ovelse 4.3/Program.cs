@@ -6,8 +6,7 @@ string svar = Console.ReadLine();
 if (svar == "ja")
 {
     Console.WriteLine("Det skal du få.");
-}
-if else (svar == "nej")
+} else if (svar == "nej")
 {
     Console.WriteLine("Okay det får du ik så.");
 }
